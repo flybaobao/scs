@@ -1,0 +1,14 @@
+{
+  "name": "es6_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SongD",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.1"
+  }
+}

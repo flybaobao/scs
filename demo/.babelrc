@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/env", // 最新转码规则
+        "@babel/preset-react" // react 转码规则
+    ],
+    "plugins": []
+}
